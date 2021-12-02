@@ -1,0 +1,16 @@
+*{
+    background: yellow;
+}
+
+#logo_navbar{
+    width: 3em;
+    margin:  .5em 1em;
+}
+
+.header{
+    display: flex;
+    background: orange;
+    justify-content: space-between;
+
+}
+
